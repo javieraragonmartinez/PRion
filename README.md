@@ -8,7 +8,7 @@ PRion transforms chaotic GitHub repos into manageable workflows. It AI-clusters 
 
 ## Motivation
 
-PRion was born as a direct response to the need expressed by the OpenClaw community in anticipation of the expected surge of pull requests following their agreement with OpenAI.
+PRion was born as a direct response to the need expressed by the OpenClaw community in anticipation of the growing increase it is experiencing and was launched on February 15 without knowledge of the even more expected increase, now that they will rise much more than expected after their agreement with OpenAI, which happened to coincide on the same day as a new partner of OpenClaw.
 
 Developed in a single day with the help of Codex, this project aims to assist maintainers of repositories with high contribution volumes,
 in an open and non-profit manner. It is licensed under the MIT license, allowing anyone to use or adapt it.
