@@ -176,10 +176,15 @@ Priority buckets: `critical`, `high`, `medium`, `low`.
 
 ## Future Extensions
 
-- Deep semantic PR review using embeddings + LLM
-- Slack / Discord notifications for critical PRs
-- Interactive dashboard for clusters, trust, and risk
-- Continuous learning from maintainer feedback
+## Key Features
+
+- 🔗 **Semantic clustering of PRs** by similar topics
+- 👤 **Trust assessment** of authors and contributions
+- ⚠️ **Risk detection** and malicious attempts
+- ⭐ **Composite priority score** (0-100) for review ordering
+- 🏷️ **Stealth labeling** on GitHub (shadow mode by default)
+- 📊 **Daily reports** in CSV and Markdown
+- 📤 **Webhooks ready** for Slack, Discord, and Notion
 
 ---
 
