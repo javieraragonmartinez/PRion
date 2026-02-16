@@ -1,5 +1,17 @@
 # PRion
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Stars](https://img.shields.io/github/stars/javieraragonmartinez/PRion?style=social)](https://github.com/javieraragonmartinez/PRion/stargazers)
+[![Forks](https://img.shields.io/github/forks/javieraragonmartinez/PRion?style=social)](https://github.com/javieraragonmartinez/PRion/network/members)
+[![CI](https://github.com/javieraragonmartinez/PRion/actions/workflows/ci.yml/badge.svg)](https://github.com/javieraragonmartinez/PRion/actions)
+
 PRion transforms chaotic GitHub repos into manageable workflows. It AI-clusters PRs, scores author trust, flags risks, and stealth-labels contributions helping maintainers prioritize thousands of PRs safely and efficiently from day one.
+
+## Motivation
+
+PRion was born as a direct response to the need expressed by the OpenClaw community in anticipation of the expected surge of pull requests following their agreement with OpenAI.
+
+Developed in a single day with the help of Codex, this project aims to assist maintainers of repositories with high contribution volumes,
+in an open and non-profit manner. It is licensed under the MIT license, allowing anyone to use or adapt it.
 
 PRion is an AI assistant for repositories with high-volume Pull Requests.
 It helps maintainers manage and prioritize contributions efficiently by:
